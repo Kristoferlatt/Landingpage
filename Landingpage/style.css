@@ -1,0 +1,60 @@
+
+.esimene{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 25px;
+}
+.teine{
+    margin-top: -1%;
+    margin-left: 10%;
+    font-size: 10px;
+}
+.Kolmas{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.neljas{
+    margin-left: 11%;
+    margin-top: -1%;
+    font-size: 8px;
+    color: #D9D9D9;
+}
+.viies{
+    margin-left: 10%;
+}
+.kuues{
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+.kuues td{
+    padding-bottom: 20px;
+    padding-right: 15px;
+    font-family: copperplate;
+    color: #7A8FA1;
+    
+}
+.kuues span{
+    display: flex;
+    align-items: center;
+}
+.kuues span img{
+    margin-right: 10px;
+}
+.seitsmes{
+    margin-top: 7%;
+
+}
+input{
+    width: 250px;
+    height: 25px;
+    border: 1px solid #D9D9D9;
+    border-radius: 25px;
+    padding-left: 20px;
+}
+.pilt{
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
